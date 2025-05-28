@@ -30,14 +30,14 @@ const experiences: ExperienceType[] = [
 const projects: ProjectType[] = [
   {
     title: "Whatsapp Bot",
-    image: "/images/example.png",
+    image: "images/example.png",
     link: "https://github.com/jswikarta/whatsappbot",
     skills: ["Node.js", "Javascript"],
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ullam aspernatur, a ipsum tempore ab adipisci perspiciatis eligendi odio quas corrupti? Maxime, eveniet veniam earum doloremque vero asperiores tempora numquam.",
   },
   {
     title: "Portfolio",
-    image: "/images/example.png",
+    image: "images/example.png",
     link: "https://github.com/jswikarta/whatsappbot",
     skills: ["Node.js", "Typescript", "React", "Tailwind"],
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ullam aspernatur, a ipsum tempore ab adipisci perspiciatis eligendi odio quas corrupti? Maxime, eveniet veniam earum doloremque vero asperiores tempora numquam.",
